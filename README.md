@@ -1,4 +1,3 @@
-# README #
 Simple python script that tweets a day-by-day countdown until an event.
 
 [Link](https://twitter.com/UntilSchool)
